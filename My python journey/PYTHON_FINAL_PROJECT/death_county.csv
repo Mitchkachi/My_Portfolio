@@ -1,0 +1,227 @@
+,Death County,Death_Lat,Date Type
+0,fairfield,41.026526,42
+1,fairfield,41.031999,1
+2,fairfield,41.033877,1
+3,fairfield,41.037899,2
+4,fairfield,41.051924,124
+5,fairfield,41.080002,4
+6,fairfield,41.11805,110
+7,fairfield,41.14044,7
+8,fairfield,41.143322,26
+9,fairfield,41.148498,4
+10,fairfield,41.179195,539
+11,fairfield,41.19444,7
+12,fairfield,41.200888,69
+13,fairfield,41.200939,4
+14,fairfield,41.252848,2
+15,fairfield,41.257379,13
+16,fairfield,41.281456,5
+17,fairfield,41.304131,4
+18,fairfield,41.316843,49
+19,fairfield,41.331612,9
+20,fairfield,41.371727,20
+21,fairfield,41.393666,200
+22,fairfield,41.413516,11
+23,fairfield,41.419998,4
+24,fairfield,41.466074,10
+25,fairfield,41.482447,8
+26,fairfield,41.575155,1
+27,fairfield,41.578959,2
+28,hartford,41.583599,5
+29,hartford,41.600428,74
+30,hartford,41.626049,34
+31,hartford,41.632043,21
+32,hartford,41.634687,2
+33,hartford,41.666901,1
+34,hartford,41.667528,316
+35,hartford,41.667775,14
+36,hartford,41.673037,213
+37,hartford,41.674474,38
+38,hartford,41.698002,58
+39,hartford,41.707618,30
+40,hartford,41.712487,46
+41,hartford,41.72651,35
+42,hartford,41.757801,8
+43,hartford,41.762008,39
+44,hartford,41.765775,953
+45,hartford,41.769319,115
+46,hartford,41.769828,8
+47,hartford,41.770668,143
+48,hartford,41.809641,7
+49,hartford,41.824474,11
+50,hartford,41.826827,9
+51,hartford,41.830957,19
+52,hartford,41.848922,1
+53,hartford,41.852781,35
+54,hartford,41.875874,8
+55,hartford,41.899986,31
+56,hartford,41.909606,1
+57,hartford,41.912428,3
+58,hartford,41.924953,35
+59,hartford,41.943168,3
+60,hartford,41.951103,8
+61,hartford,41.976501,101
+62,hartford,41.983549,10
+63,hartford,41.988602,4
+64,hartford,41.998901,1
+65,hartford,42.023687,1
+66,litchfield,41.535109,3
+67,litchfield,41.545058,7
+68,litchfield,41.556245,1
+69,litchfield,41.576633,55
+70,litchfield,41.588864,5
+71,litchfield,41.606284,30
+72,litchfield,41.631357,3
+73,litchfield,41.639532,1
+74,litchfield,41.663368,1
+75,litchfield,41.671982,11
+76,litchfield,41.674124,10
+77,litchfield,41.678437,23
+78,litchfield,41.684395,4
+79,litchfield,41.722304,1
+80,litchfield,41.724646,1
+81,litchfield,41.744496,1
+82,litchfield,41.746861,2
+83,litchfield,41.771487,3
+84,litchfield,41.812186,173
+85,litchfield,41.8186,1
+86,litchfield,41.831902,1
+87,litchfield,41.831925,1
+88,litchfield,41.871399,1
+89,litchfield,41.87943,15
+90,litchfield,41.879454,7
+91,litchfield,41.901973,10
+92,litchfield,41.925393,18
+93,litchfield,41.927066,5
+94,litchfield,41.958312,1
+95,litchfield,41.963458,1
+96,litchfield,41.983411,5
+97,litchfield,41.991381,2
+98,litchfield,41.993599,2
+99,litchfield,42.013302,1
+100,litchfield,42.025992,12
+101,middlesex,41.278677,25
+102,middlesex,41.283357,22
+103,middlesex,41.295121,16
+104,middlesex,41.348301,4
+105,middlesex,41.353832,10
+106,middlesex,41.357274,4
+107,middlesex,41.385619,6
+108,middlesex,41.40159,3
+109,middlesex,41.452557,6
+110,middlesex,41.477264,5
+111,middlesex,41.485881,5
+112,middlesex,41.4968,2
+113,middlesex,41.502843,5
+114,middlesex,41.515997,4
+115,middlesex,41.530602,1
+116,middlesex,41.544654,173
+117,middlesex,41.575581,19
+118,middlesex,41.581345,15
+119,middlesex,41.595859,9
+120,new haven,41.224276,118
+121,new haven,41.271447,14
+122,new haven,41.272336,123
+123,new haven,41.277971,55
+124,new haven,41.279802,62
+125,new haven,41.281228,13
+126,new haven,41.282731,7
+127,new haven,41.308252,675
+128,new haven,41.322959,95
+129,new haven,41.324919,11
+130,new haven,41.34198,39
+131,new haven,41.352933,7
+132,new haven,41.382918,78
+133,new haven,41.38864,29
+134,new haven,41.3936,5
+135,new haven,41.395594,25
+136,new haven,41.428339,6
+137,new haven,41.434813,9
+138,new haven,41.444336,7
+139,new haven,41.454408,44
+140,new haven,41.466592,14
+141,new haven,41.491113,76
+142,new haven,41.498834,14
+143,new haven,41.529492,8
+144,new haven,41.537589,197
+145,new haven,41.554261,663
+146,new haven,41.601588,12
+147,new london,41.313043,6
+148,new london,41.314944,1
+149,new london,41.32694,12
+150,new london,41.337685,5
+151,new london,41.342158,15
+152,new london,41.343693,55
+153,new london,41.35461,5
+154,new london,41.355167,221
+155,new london,41.36677,8
+156,new london,41.37642,7
+157,new london,41.39119,1
+158,new london,41.403301,3
+159,new london,41.428833,5
+160,new london,41.434399,21
+161,new london,41.43775,4
+162,new london,41.445618,15
+163,new london,41.45303,9
+164,new london,41.466099,8
+165,new london,41.471499,8
+166,new london,41.487106,8
+167,new london,41.524304,211
+168,new london,41.530948,6
+169,new london,41.544947,4
+170,new london,41.569698,8
+171,new london,41.57348,18
+172,new london,41.573883,6
+173,new london,41.595001,1
+174,new london,41.606767,18
+175,new london,41.611549,3
+176,new london,41.614599,19
+177,new london,41.617221,3
+178,new london,41.636294,6
+179,new london,41.640692,6
+180,tolland,41.625301,2
+181,tolland,41.658069,7
+182,tolland,41.701926,10
+183,tolland,41.728789,4
+184,tolland,41.7654,2
+185,tolland,41.765926,10
+186,tolland,41.770886,4
+187,tolland,41.774042,10
+188,tolland,41.801124,3
+189,tolland,41.818792,77
+190,tolland,41.841599,3
+191,tolland,41.86164,2
+192,tolland,41.872445,13
+193,tolland,41.87481,5
+194,tolland,41.903847,10
+195,tolland,41.953931,20
+196,tolland,41.9706,1
+197,tolland,41.98469,16
+198,tolland,41.985524,4
+199,windham,41.675595,2
+200,windham,41.67731,21
+201,windham,41.6936,1
+202,windham,41.6975,1
+203,windham,41.698351,7
+204,windham,41.699744,30
+205,windham,41.707458,5
+206,windham,41.711724,63
+207,windham,41.712872,16
+208,windham,41.722801,3
+209,windham,41.73871,2
+210,windham,41.74589,2
+211,windham,41.749401,5
+212,windham,41.788252,7
+213,windham,41.797715,5
+214,windham,41.803361,35
+215,windham,41.840302,1
+216,windham,41.846401,3
+217,windham,41.871915,7
+218,windham,41.897524,3
+219,windham,41.902117,4
+220,windham,41.914993,38
+221,windham,41.950652,6
+222,windham,41.958546,9
+223,windham,41.983601,1
+224,windham,41.985644,4
+225,windham,42.021814,1
